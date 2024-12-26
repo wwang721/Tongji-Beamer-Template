@@ -10,4 +10,4 @@ A customizable Beamer template that can be adapted for any college with minimal 
 
 Feel free to make additional customizations to suit your needs.
 
-Credit: This template is based on [Trinkle23897's beamer template of Tsinghua University](https://github.com/Trinkle23897/THU-Beamer-Theme).
+Credit: This template is based on [Trinkle23897's Tsinghua University Beamer template](https://github.com/Trinkle23897/THU-Beamer-Theme).
